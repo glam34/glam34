@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @glam34
 - 👀 I’m interested in Python development
-- 🌱 I’m currently learning Pyhton
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Pyhton, JS, Eng Touch typing
+- 💞️ I’m looking to collaborate on web-scripts
 - 📫 How to reach me zakneogot@gmail.com
 
 <!---
